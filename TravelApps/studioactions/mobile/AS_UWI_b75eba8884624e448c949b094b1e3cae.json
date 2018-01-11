@@ -1,0 +1,15 @@
+{
+    "AS_UWI_b75eba8884624e448c949b094b1e3cae": {
+        "id": "AS_UWI_b75eba8884624e448c949b094b1e3cae",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "contextObj": {
+            "name": "frmLogin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "bcbe4b2c13f24b80848c5377c7af0b22"
+        },
+        "language": "js",
+        "actions": []
+    }
+}
